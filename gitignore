@@ -1,0 +1,6 @@
+# All checkpoints #
+*.ipynb_checkpoints
+__pycache__
+
+# Twitter Config
+config.py
